@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Daniel, a junior Computer Science student at UIC. I am passionate about building software that have impact on the real world. I am currently working on a fintech full-stack application using React, Express, and PostgreSQL. I'm seeking summer internships for software engineering positions.
+
+- Interests: Software engineering, cloud engineering
+- Technical skills: Python, C++, JavaScript, SQL
+
+  PROJECTS:
+  
 
 <!--
 **devtom9/devtom9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
